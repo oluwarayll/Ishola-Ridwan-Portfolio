@@ -168,7 +168,7 @@ export default function MediaPlay() {
             <div className="relative min-h-[280px] overflow-hidden lg:min-h-[460px]">
               <Img
                 id="work.banner.image"
-                src="/images/working.jpg"
+                src="./images/working.jpg"
                 alt="Editing a vertical short-form video late at night"
                 className="kenburns absolute inset-0 h-full w-full object-cover"
               />
